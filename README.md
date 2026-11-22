@@ -10,7 +10,7 @@ The MCP server is built into the **RecPix Mac app** (macOS 15+, Apple silicon re
 
 ## Set up
 
-1. [Download RecPix](https://recpix.app/downloads/RecPix.dmg) (free to try; exports carry a small watermark until you buy a licence).
+1. [Download RecPix](https://recpix.app/downloads/RecPix.dmg) (your first 3 videos are free, with a “Made with RecPix” mark; a $29 one-time licence gives unlimited videos with no mark).
 2. Open **RecPix › Claude Code** and switch it on.
 3. Copy the setup command it shows and run it in Terminal. It looks like:
    ```bash
